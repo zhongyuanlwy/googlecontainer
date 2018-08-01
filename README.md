@@ -14,3 +14,6 @@ fuck gfw, pull gcr.io images
 * kube 1.14.8
 * sidecar 1.14.8
 * dnsmasq 1.14.8
+# use dockerhub automatically building this repository Dockerfiles
+docker pull ryanzhong/googlecontainer:tag
+* tag is version 
