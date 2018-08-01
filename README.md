@@ -1,4 +1,4 @@
-# googlecontainer
+# googlecontainers
 fuck gfw, pull gcr.io images
 # here are the components verisons below:
 * kube-controller-manager v1.11.0
