@@ -1,8 +1,8 @@
 # googlecontainer
 fuck gfw, pull gcr.io images
 # here are the components verisons below:
-kube-controller-manager v1.11.0
-coredns 1.1.3
+* kube-controller-manager v1.11.0
+* coredns 1.1.3
 etcd 3.2.18
 kube-proxy v1.11.0
 pause 3.1
