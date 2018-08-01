@@ -12,5 +12,5 @@ fuck gfw, pull gcr.io images
 * heapster-grafana v4.4.3
 * heapster-influxdb v1.3.3
 * kube 1.14.8
-- sidecar 1.14.8
-+ dnsmasq 1.14.8
+* sidecar 1.14.8
+* dnsmasq 1.14.8
