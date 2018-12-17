@@ -1,4 +1,4 @@
-FROM redis:3.2.9
+FROM redis:4.0.11
 
 COPY run.sh /
 
