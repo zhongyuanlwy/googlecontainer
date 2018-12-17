@@ -1,1 +1,5 @@
-FROM gcr.io/google_samples/gb-redisslave:v1
+FROM redis:3.2.9
+
+COPY run.sh /
+
+CMD /run.sh
